@@ -17,7 +17,7 @@ This directory documents guided security exercises and lab environments that bui
 Each lab should have its own directory containing a dedicated `README.md` and any supporting material that is safe to publish.
 
 ```text
-Security_Lab/
+Security_Labs/
 ├── README.md
 └── TryHackMe/
     ├── Brains/
